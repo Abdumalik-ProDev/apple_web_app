@@ -83,8 +83,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abdumalik-ProDev/project-based-frontend-learning
-cd project-based-frontend-learning
+git clone https://github.com/Abdumalik-ProDev/apple_web_app
+cd apple_web_app
 ```
 
 **Installation**
